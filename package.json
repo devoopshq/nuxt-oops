@@ -1,0 +1,23 @@
+{
+  "name": "@devoopshq/nuxt",
+  "version": "1.0.0",
+  "description": "> A [Nuxt.js](https://github.com/nuxt/nuxt.js) plugin",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devoopshq/nuxt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devoopshq/nuxt/issues"
+  },
+  "homepage": "https://github.com/devoopshq/nuxt#readme"
+}
